@@ -5,11 +5,6 @@
       "checksum": "004A02532C34B816B259DC323DDDD90DD7B980DD10869CB404F2AD8F87958F26",
       "size": 72
     },
-    "_config.yml": {
-      "name": "_config.yml",
-      "checksum": "A42D91290C93B5F17412C3B346737EA1C796E5D287306758AFE8B20470119D80",
-      "size": 21
-    },
     "index.ftd": {
       "name": "index.ftd",
       "checksum": "EE66DBAF784BDB630F89C1C2AA9AAE198993F2139F281DE502908E0A42E15206",
@@ -17,5 +12,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/fifthtry/x.fifthtry.com/zip/refs/heads/main",
-  "checksum": "BDE3F900BD8C4EE77CC499E5F4A399B0440E5A788AAB55A6BB7FA06FA44528BA"
+  "checksum": "3E9614F835E86EF66388AB0841C066F61A752D5FDD26B4A4EE3F85D288F82DE5"
 }
